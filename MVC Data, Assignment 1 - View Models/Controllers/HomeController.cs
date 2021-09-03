@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using MVC_Data_Assignment_1___View_Models.Models;
+using MVC_Data__Assignment_1___View_Models.Models;
 
-namespace MVC_Data_Assignment_1___View_Models.Controllers
+namespace MVC_Data__Assignment_1___View_Models.Controllers
 {
     public class HomeController : Controller
     {

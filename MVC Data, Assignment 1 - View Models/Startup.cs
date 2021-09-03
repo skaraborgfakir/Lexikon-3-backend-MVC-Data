@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace MVC_Data_Assignment_1___View_Models
+namespace MVC_Data__Assignment_1___View_Models
 {
     public class Startup
     {

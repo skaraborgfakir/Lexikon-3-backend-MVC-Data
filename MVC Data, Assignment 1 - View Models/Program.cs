@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace MVC_Data_Assignment_1___View_Models
+namespace MVC_Data__Assignment_1___View_Models
 {
     public class Program
     {

@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>MVC_Data_Assignment_1___View_Models</RootNamespace>
+    <RootNamespace>MVC_Data__Assignment_1___View_Models</RootNamespace>
   </PropertyGroup>
 
 </Project>
